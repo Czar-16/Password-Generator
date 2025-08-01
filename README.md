@@ -19,4 +19,4 @@ A simple React-based password generator app that lets users create secure passwo
 ## 📸 Screenshot
 
 _(Optional: Add a screenshot of the app here)_  
-![Screenshot](./screenshot.png)
+![Screenshot](Screenshot/screenshot.png)
